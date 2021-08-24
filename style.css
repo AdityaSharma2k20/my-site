@@ -24,7 +24,7 @@ h1 {
 .web-designer {
   position: relative;
   top: 50px;
-  font-size: 100.5%;
+  font-size: 2.5;
   color: #11999E;
   font-weight: normal;
 }
@@ -36,11 +36,14 @@ h1 {
 }
 
 .cloud2 {
-  position: absolute;
-  top: 220px;
-  left: 300px;
+  position: relative;
+  bottom: 300px;
+  left: 40px;
 }
-
+.mountain{
+  position: relative;
+  right: 50px
+}
 .profile {
   width: 50%;
   margin: 40px auto;
