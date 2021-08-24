@@ -21,6 +21,11 @@ h1 {
   color: #66BFBF;
 }
 
+.web-designer-para{
+  width:20%;
+  margin: auto;
+}
+
 .web-designer {
   position: relative;
   top: 50px;
